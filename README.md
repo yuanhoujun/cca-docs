@@ -1,0 +1,47 @@
+#  前言
+
+象棋助手是一个主打学棋，从“打谱、复盘”这件小事诞生的软件，关于这款软件诞生的故事，看这里：[我与象棋的故事](./story/我与象棋的故事.md)。
+
+# 全平台支持
+
+目前，象棋助手已经支持在几乎所有主流操作系统上面使用，包括Android、iOS、Windows、macOS甚至Linux中使用。如果你喜欢复盘、拆棋，或者，你已经习惯了Windows平台的象棋桥软件，那你一定也会喜欢象棋助手！
+
+# 账户通用
+
+只要登录同一个账户，完成了会员付费，任何其它平台都可以直接使用。例如，你使用Android手机完成年费会员订阅。那么，在Windows电脑上面下载安装我们的桌面版本，登录同一个账户，同样可以体验我们我们的会员功能，无需重新付费。
+
+# 棋谱同步
+
+象棋助手是一个联网软件，只需登录账户，棋谱即可自动同步，而无需关注使用你使用的是哪一台设备。
+
+# 象棋助手到底怎么用？
+
+关于象棋助手的使用，我们发布了大量的教学视频，遇到问题，你可以先参考我们的教学视频，也可以添加我们的QQ群（725840654）提问。
+
+目前，我们的视频发布主要有以下两个渠道：
+
+B站：[https://www.bilibili.com/video/BV1m64y1L7oR/](https://www.bilibili.com/video/BV1m64y1L7oR/?spm_id_from=333.788&vd_source=7b89b7819b83ea99c40e7d2d7342d50d)
+
+抖音：搜索“象棋助手”，头像是象棋助手图标的那个就是我们的官方账户。
+
+![5f198441d1c589964f6495d50f2a10bb.webp](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/d96658a92a1543eaad91f7d6e8cbf16b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5qyn6Ziz6ZSL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNTE4NjI1MjE3Nzg4NDI5In0%3D&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1739176938&x-orig-sign=ZQ8VlY1y5%2BnkZLdB4ovJhbvWFWM%3D)![](<> "点击并拖拽以移动")​
+
+**注：后续我们的教学视频会优先发布在抖音平台，请大家务必先关注我们的抖音，以获得第一时间的视频推送。**
+
+ 
+
+# 附录
+
+**QQ交流群：725840654**
+
+**抖音：象棋助手**
+
+**B站：欧阳锋工作室**
+
+**常见问题：[遇到问题点我](https://support.qq.com/products/426101/faqs-more/)**
+
+**团队博客：[我们的故事](https://support.qq.com/products/426101/blog-archive)**
+
+感谢你的使用，我们期待着与你的相逢！
+
+​
