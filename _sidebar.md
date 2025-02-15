@@ -27,8 +27,8 @@
 
 * 政策与协议
   
-  * [象棋助手服务协议](./service/服务协议.md)
-  * [象棋助手隐私政策](./service/隐私政策.md)
+  * [象棋助手服务协议](./service/items.md)
+  * [象棋助手隐私政策](./service/privacy.md)
 
 * 其它
 
