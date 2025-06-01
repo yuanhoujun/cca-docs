@@ -20,6 +20,7 @@
   * [[电脑版]看不到引擎输出日志](./faq/看不到引擎输出日志.md)
   * [读屏分析使用指南](./faq/reading_screen.md)
   * [象棋助手棋力怎么样](./faq/chess_skill.md)
+  * [棋谱容量说明](./faq/records_capacity.md)
   * [联系客服](./faq/联系客服.md)
 * 我们的故事
   
