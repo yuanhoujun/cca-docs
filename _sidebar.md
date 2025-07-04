@@ -42,6 +42,7 @@
   
   * [象棋助手服务协议](./service/items.md)
   * [象棋助手隐私政策](./service/privacy.md)
+  * [象棋助手离线版隐私政策](./service/offline_privacy.md)
 
 * 其它
 
