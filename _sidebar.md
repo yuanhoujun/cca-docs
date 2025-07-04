@@ -22,6 +22,15 @@
   * [象棋助手棋力怎么样](./faq/chess_skill.md)
   * [棋谱容量说明](./faq/records_capacity.md)
   * [联系客服](./faq/联系客服.md)
+
+* 离线版常见问题
+
+  * [激活码使用说明](./offline_faq/activation_code.md)
+  * [绑定设备超过限制怎么办](./offline_faq/exceed_limit.md)
+  * [如何领取优惠码](./offline_faq/get_discount_code.md)
+  * [离线版与在线版有什么不同](./offline_faq/online_diff.md)
+  * [备份与还原](./offline_faq/backup.md)
+
 * 我们的故事
   
   * [我与象棋的故事](./story/我与象棋的故事.md)
