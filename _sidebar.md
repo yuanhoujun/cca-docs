@@ -30,6 +30,7 @@
   * [如何领取优惠码](./offline_faq/get_discount_code.md)
   * [离线版与在线版有什么不同](./offline_faq/online_diff.md)
   * [备份与还原](./offline_faq/backup.md)
+  * [如何半价购买](./offline_faq/half_price.md)
 
 * 我们的故事
   
