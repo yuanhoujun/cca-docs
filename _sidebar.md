@@ -21,6 +21,9 @@
   * [读屏分析使用指南](./faq/reading_screen.md)
   * [象棋助手棋力怎么样](./faq/chess_skill.md)
   * [棋谱容量说明](./faq/records_capacity.md)
+  * [语音录入使用说明](./faq/audio_input.md)
+  * [手动输入录入使用说明](./faq/text_input.md)
+  * [导入文本棋谱使用说明](./faq/import_text_manual.md)
   * [联系客服](./faq/联系客服.md)
 
 * 离线版常见问题
