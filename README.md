@@ -82,7 +82,7 @@
 
 **小红书：欧阳锋**
 
-在线版官网：[https://cca.yhdm360.cn]([https://cca.yhdm360.cn](https://cca.yhdm360.cn))
+在线版官网：[https://cca.yhdm360.cn](https://cca.yhdm360.cn)
 
 在线版官网：[https://cca2.yhdm360.cn](https://cca2.yhdm360.cn)
 
