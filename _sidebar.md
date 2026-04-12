@@ -25,6 +25,7 @@
   * [手动输入录入使用说明](./faq/text_input.md)
   * [导入文本棋谱使用说明](./faq/import_text_manual.md)
   * [盲棋训练](./faq/blind_chess.md)
+  * [选择棋库](./faq/select_library.md)
   * [联系客服](./faq/联系客服.md)
 
 * 离线版常见问题
