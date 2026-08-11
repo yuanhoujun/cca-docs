@@ -31,6 +31,7 @@
 * 离线版常见问题
 
   * [激活码使用说明](./offline_faq/activation_code.md)
+  * [Mac App Store 已购用户领取激活码](./offline_faq/app_store_activation_code.md)
   * [绑定设备超过限制怎么办](./offline_faq/exceed_limit.md)
   * [如何领取优惠码](./offline_faq/get_discount_code.md)
   * [离线版与在线版有什么不同](./offline_faq/online_diff.md)
