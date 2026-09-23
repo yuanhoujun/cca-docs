@@ -88,6 +88,6 @@
 
 在线版官网：[https://cca.yhdm360.cn](https://cca.yhdm360.cn)
 
-在线版官网：[https://cca2.yhdm360.cn](https://cca2.yhdm360.cn)
+离线版官网：[https://cca2.yhdm360.cn](https://cca2.yhdm360.cn)
 
 感谢你的使用，我们期待着与你的相逢！
