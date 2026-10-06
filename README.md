@@ -52,6 +52,8 @@
 
 * [盲棋训练](faq/blind_chess.md)
 
+* [打谱复盘使用指南](faq/study_manual_guide.md)
+
 * [选择棋库](faq/select_library.md)
 
 * [联系客服](faq/联系客服.md)
