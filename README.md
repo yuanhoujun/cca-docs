@@ -44,6 +44,8 @@
 
 * [棋谱容量说明](faq/records_capacity.md)
 
+* [5M棋谱到底能存多少东西](faq/manual_5mb_capacity.md)
+
 * [语音录入使用说明](faq/audio_input.md)
 
 * [手动输入录入使用说明](faq/text_input.md)
