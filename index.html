@@ -18,6 +18,18 @@
       name: '象棋助手', // 设置文档名称
       repo: '',
       loadSidebar: true,
+      plugins: [
+        function (hook) {
+          hook.afterEach(function (html) {
+            const template = document.createElement('template');
+            template.innerHTML = html;
+            for (const image of template.content.querySelectorAll('img:not([loading])')) {
+              image.loading = 'lazy';
+            }
+            return template.innerHTML;
+          });
+        }
+      ],
       subMaxLevel: 2,
       routerMode: 'history',
       alias: {
